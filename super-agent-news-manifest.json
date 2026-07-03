@@ -1,0 +1,27 @@
+{
+  "citations": [
+    "[superintech.com](https://superintech.com/blog/ai-for-recruitment-agencies-screening-scheduling-followup)",
+    "[yena.ai](https://www.yena.ai/blog/agentic-recruiting-platform-guide-2026)",
+    "[metaview.ai](https://www.metaview.ai/resources/blog/coordinated-ai-recruiting-stack)",
+    "[thehirehub.ai](https://www.thehirehub.ai/blog/ai-superagents-hr-2026-tipping-point)",
+    "[blog.google](https://blog.google/technology/ai/introducing-computer-use-gemini-3-5-flash/)",
+    "[shrm.org](https://www.shrm.org)"
+  ],
+  "design_plan": "rng_seed=42; hero_math=2.4 lines @1120px; AIDA=pass; density_check=compare-grid dense; contrast_check=pass; competitors_sweep=pass",
+  "generated_at": "2026-07-03T07:01:35.176830+00:00",
+  "headline": "Super for recruiters sourcing candidates and coordinating interviews",
+  "site_brief": {
+    "audience": "recruiters sourcing candidates and coordinating interviews",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "recruiters sourcing candidates and coordinating interviews AI assistant",
+      "recruiters sourcing candidates and coordinating interviews personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-recruiters-sourcing-candidates-and-coordinating",
+    "title": "Super for recruiters sourcing candidates and coordinating interviews"
+  },
+  "summary": "A conversion\u2011focused niche landing page for recruiters who live in sourcing volume and interview logistics. Uses current 2026 evidence on agentic recruiting and workflow automation to show why Super\u2019s personal AI agents \u2014 with real computer use and a reusable computer-use cache \u2014 are sharper for repeated recruiting workflows than chat-first assistants."
+}
